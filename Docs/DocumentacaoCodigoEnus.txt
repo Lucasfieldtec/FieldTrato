@@ -1,0 +1,21 @@
+Tipo de Uso
+Tabela : CONGIF
+Campo  : TIPOOPERACAO
+0 Rotormix
+1 Estacionario
+2 Distribuidor
+
+Status Fabricacao 
+Tabela : Fabricacao
+Campo  : Finalizada
+ 1=aberta
+ 2=finalizada
+ 
+Status Carregamento
+Tabela : Carregamento
+Campo  : Status 
+ 1=aberto
+ 2=carregado
+ 3=finalizado
+ 
+ 

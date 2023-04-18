@@ -1,0 +1,123 @@
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 08:39:43 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 08:39:45 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 08:40:47 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 08:40:49 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 08:41:12 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 08:41:14 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 09:03:01 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 09:03:03 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 09:04:38 2021
+	INET/inet_error: read errno = 10054
+
+
+DESKTOP-HT6SOAO (Client)	Mon Mar 29 09:04:40 2021
+	INET/inet_error: read errno = 10054
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:35:01 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:35:06 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:36:04 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:36:08 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:36:58 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:37:03 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:40:27 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:40:31 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:42:36 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:42:40 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:43:28 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Mon May 10 20:43:32 2021
+	INET/inet_error: connect errno = 10061
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 08:18:21 2021
+	INET/inet_error: connect errno = 10060
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 08:18:34 2021
+	INET/inet_error: connect errno = 10053
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 08:57:45 2021
+	INET/inet_error: send errno = 10054
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 08:57:45 2021
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 11:30:51 2021
+	INET/inet_error: send errno = 10054
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 11:30:51 2021
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 14:26:35 2021
+	INET/inet_error: read errno = 10054
+
+
+LAPTOP-R77A9UVU (Client)	Thu May 20 14:26:36 2021
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+

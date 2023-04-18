@@ -1,0 +1,9 @@
+﻿[frmPrincipal.dsFornecimento]
+Visible=False
+
+[dmSqlite.Fabricacao]
+Visible=False
+
+[dmSqlite.FabricacaoAlimentos]
+Visible=False
+
